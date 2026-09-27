@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://a.ey777.cn/sitemap.xml
